@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(45deg, blue, aqua);
+    min-height: 100vh; 
+    min-width: 100vw;
+    
+   
+    
+}
+.title {
+    font-size: 15px;
+}
+.text {
+    font-size: 15px;
+
+}
+.notebook {
+    display: flex;
+
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
